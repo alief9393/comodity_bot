@@ -1,0 +1,7 @@
+metatrader5
+pandas
+numpy
+python-dotenv
+pandas-ta
+plotly
+python-telegram-bot
